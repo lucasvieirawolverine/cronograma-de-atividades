@@ -1,0 +1,14 @@
+guia de instrução do git
+
+git clone: baixar o diretorio do github 
+
+git commit: verifica o que foi alterado do repositorio
+
+git status: retorna itens que foi alterados, e mostrar o status do que foi modificado
+
+git pull: listando o caminho do servidor
+
+git add:quando alterar,antes deve rodar o comando git add para adicionar o index e depois o commit
+
+git remote -v: para  alterar o servidor que hospedamos nosso repositorio set-url
+ex:/git remote -v set-url origin = nome do repositorio 
